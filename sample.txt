@@ -1,1 +1,2 @@
 thi is truncatechars_html
+this is line

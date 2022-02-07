@@ -1,3 +1,4 @@
 thi is truncatechars_html
 this is line
 this is css line
+thid is added line
